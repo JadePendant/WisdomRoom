@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorBar" tools:ignore="MissingDefaultResource">#696969</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBack">#a4d5f3</color>
+    <color name="colorText">#B0E0E6</color>
+    <color name="colorBg">#a4d5f3</color>
+    <color name="colorSlider">#CDCDC1</color>
+    <color name="colorNotice">#EE0000</color>
+    <color name="colorRed">#FF6347</color>
+    <color name="colorBlue">#9370DB</color>
+    <color name="colorGreen">#7FFFD4</color>
+</resources>

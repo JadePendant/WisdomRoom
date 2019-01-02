@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">智慧实验室</string>
+    <string name="home" tools:ignore="ExtraTranslation">我的首页</string>
+    <string name="room">实验教室</string>
+    <string name="inform">通知公告</string>
+    <string name="ruler">规章制度</string>
+    <string name="schedule">学期课表</string>
+    <string name="teacher">教师风采</string>
+    <string name="innovate">创新创业</string>
+    <string name="cooperation">校企合作</string>
+    <string name="manage">运行管理</string>
+    <string name="consult">专业资讯</string>
+</resources>
